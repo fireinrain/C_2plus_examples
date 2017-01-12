@@ -1,5 +1,9 @@
 #include <stdio.h>
 
+
+//¼òµ¥µÄÍ°ÅÅĞò
+
+
 int main(){
 	
 	int score[11],i,j,t;
